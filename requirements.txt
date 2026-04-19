@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai-whisper
+pymupdf
+pytesseract
+Pillow
+python-multipart
+python-dotenv
+torch
+setuptools
